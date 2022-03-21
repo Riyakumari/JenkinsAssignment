@@ -10,7 +10,7 @@ stage('Build') {
 
 steps {
 
-echo mvn clean
+echo 'Building..'
 
 }
 
